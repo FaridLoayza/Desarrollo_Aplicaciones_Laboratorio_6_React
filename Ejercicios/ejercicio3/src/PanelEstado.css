@@ -1,0 +1,10 @@
+#panel-estado {
+  max-width: 500px;
+  margin: 40px auto;
+}
+
+.lista-elementos {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}

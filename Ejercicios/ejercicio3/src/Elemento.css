@@ -1,0 +1,28 @@
+.elemento {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 12px 16px;
+  margin: 10px 0;
+  text-align: left;
+  transition: background-color 0.3s ease;
+}
+
+.elemento-pendiente {
+  background-color: #fff3cd;
+  color: #222;
+}
+
+.elemento-en-progreso {
+  background-color: #cfe2ff;
+  color: #222;
+}
+
+.elemento-completado {
+  background-color: #d1e7dd;
+  color: #222;
+}
+
+.elemento button {
+  margin-right: 8px;
+  margin-top: 6px;
+}
